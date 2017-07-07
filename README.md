@@ -3,7 +3,7 @@ NodeJS MultChat
 
 This is a node.js chat application powered by SockJS and Express that provides the main functions you'd expect from a chat, such as emojis, private messages, an admin system, etc.
 
-![Chat Preview](http://i.imgur.com/lgRe8z4.png)
+![Chat Preview]
 
 - Type `/help` to get a list of the available chat commands
 
@@ -50,6 +50,6 @@ To give yourself administrator permissions on the chat, you will have to type `/
 ---
 
 ## License
->You can check out the full license [here](https://github.com/IgorAntun/node-chat/blob/master/LICENSE)
+>You can check out the full license [here](https://github.com/geekSivz/NodeJs-/blob/master/LICENSE)
 
 This project is licensed under the terms of the **MIT** license.
